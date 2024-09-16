@@ -1,0 +1,27 @@
+{
+  "cmake.additionalCompilerSearchDirs": [
+    "C:/msys64/mingw32/bin",
+    "C:/msys64/mingw64/bin",
+    "C:/msys64/clang32/bin",
+    "C:/msys64/clang64/bin",
+    "C:/msys64/clangarm64/bin",
+    "C:/msys64/ucrt64/bin"
+  ],
+  "workbench.colorTheme": "Bocchi the Rock!",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "editor.fontWeight": "normal",
+  "redhat.telemetry.enabled": true,
+  
+  "editor.fontLigatures": false,
+  "git.autofetch": true,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "editor.cursorBlinking": "phase",
+  "terminal.integrated.cursorWidth": 3,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'cascadia code'",
+  "editor.formatOnSave": true,
+  "liveServer.settings.donotShowInfoMsg": true
+}
