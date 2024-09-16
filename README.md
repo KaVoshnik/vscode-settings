@@ -7,8 +7,11 @@
 <h3>Themes:</h3>
 
 <h4>Main:</h4>
+
 - Bocchi the Rock!
+
 <h4>Icons:</h4>
+
 - Symbols
 
 <h3>Extensions:</h3>
