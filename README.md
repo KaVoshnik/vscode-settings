@@ -17,7 +17,7 @@
 
 <h4>Languages:</h4>
 
-<h5>2: Java</h5>
+<h5>Java</h5>
 
 - Debugger for Java
 - Gradle for Java
