@@ -1,10 +1,7 @@
 {
-  "workbench.colorTheme": "Bocchi the Rock!",
   "symbols.hidesExplorerArrows": false,
   "workbench.iconTheme": "symbols",
   "editor.fontWeight": "normal",
-  "redhat.telemetry.enabled": true,
-  
   "editor.fontLigatures": false,
   "git.autofetch": true,
   "editor.minimap.enabled": false,
@@ -12,8 +9,8 @@
   "editor.cursorBlinking": "phase",
   "terminal.integrated.cursorWidth": 3,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontSize": 16,
+  "editor.fontSize": 18,
   "editor.fontFamily": "'cascadia code'",
   "editor.formatOnSave": true,
-  "liveServer.settings.donotShowInfoMsg": true
+  "workbench.colorTheme": "Monokai"
 }
