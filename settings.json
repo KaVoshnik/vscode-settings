@@ -4,7 +4,6 @@
   "editor.fontWeight": "normal",
   "editor.fontLigatures": false,
   "git.autofetch": true,
-  "editor.minimap.enabled": false,
   "explorer.confirmDelete": false,
   "editor.cursorBlinking": "phase",
   "terminal.integrated.cursorWidth": 3,
@@ -12,5 +11,6 @@
   "editor.fontSize": 18,
   "editor.fontFamily": "'cascadia code'",
   "editor.formatOnSave": true,
-  "workbench.colorTheme": "Monokai"
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "SynthWave '84"
 }
